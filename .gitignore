@@ -1,0 +1,9 @@
+# ExifDoctor workspace
+.exifdoctor/
+
+# macOS
+.DS_Store
+
+# Backup files created by exiftool
+*_original
+*.bak
